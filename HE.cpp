@@ -235,7 +235,6 @@ void decodeData(const string& input, HuffmanNode* encodingTree, string& output){
 //==============================================================================================
 //==============================================================================================
 int main(){
-    cout<<"By Adam Helal(201901349) and Youssef Itani(201900604)\n "<<endl;
     cout<<"Enter a Message: ";
     string message;
     getline(cin,message);
